@@ -1,0 +1,11 @@
+Title-"Simple Navigator" -[4th semester]
+It is AI project given us to find the optimal path between source and destination within university.
+So, I mapped a small part locations of university by giving each location a (x,y) co-ordinate to locate its position on my map.
+The co-ordinate system will help us to find the distace b/w two location connected by straight path.
+I have used the very basic knowledge, data-structures, algorithms and mathematics to accomplish this project, these are mentioned below:
+BFS(breadth first search)
+recursion
+queue
+stack
+dictionary
+pandas
