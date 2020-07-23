@@ -1,2 +1,2 @@
-# First-Ai-Project
+# Simple-Navigator
 simple navigator for LPU
